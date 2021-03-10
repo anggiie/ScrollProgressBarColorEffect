@@ -89,7 +89,7 @@ section p {
     top: 0;
     right: 0;
     width: 10px;
-    background: linear-gradient(to top, lime, pink, violet, blue);
+    background-color: rgba(0, 0, 0, 0.9);
     animation: animate 6s linear infinite;
 }
 @keyframes animate
